@@ -107,19 +107,6 @@ Final Detection Result
 
 ---
 
-# Performance Metrics
-
-| Metric         |              Value |
-| -------------- | -----------------: |
-| Accuracy       |          **72.4%** |
-| Precision      |          **73.8%** |
-| Recall         |          **71.2%** |
-| F1-Score       |          **72.5%** |
-| mAP@50         |          **74.1%** |
-| Inference Time | **~35 ms / image** |
-
----
-
 # Project Structure
 
 ```text
@@ -151,7 +138,7 @@ Leather-Defect-Detection-Using-YOLOv8/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Leather-Defect-Detection-Using-YOLOv8.git
+git clone https://github.com/Vinod-R-07/Leather-Defect-Detection-Using-YOLOv8.git
 ```
 
 Go to the project directory:
