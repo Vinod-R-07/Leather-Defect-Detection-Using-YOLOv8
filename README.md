@@ -196,6 +196,26 @@ The application displays:
 
 ---
 
+# Application Screenshots
+
+## Home Page
+
+![Home Page](assets/home_page.png)
+
+## Defect Detection Example 1
+
+![Detection 1](assets/defect-detection-1.png)
+
+## Defect Detection Example 2
+
+![Detection 2](assets/defect-detection-2.png)
+
+## Defect Detection Example 3
+
+![Detection 3](assets/defect-detection-3.png)
+
+---
+
 # Future Scope
 
 * Support additional leather defect categories
